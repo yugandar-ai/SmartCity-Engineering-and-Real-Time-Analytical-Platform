@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+streamlit
+mysql-connector-python
+sqlalchemy
+matplotlib
+scikit-learn
+seaborn
+plotly
+sqlalchemy
+jupyter
+xgboost
+lightgbm
+vibecoding 
